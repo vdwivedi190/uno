@@ -1,2 +1,1 @@
-# uno
-A Python implementation of the card game UNO!
+# A Python implementation of the card game UNO!
