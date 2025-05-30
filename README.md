@@ -1,4 +1,4 @@
-# A terminal-based implementation of the card game UNO
+# The card game UNO
 
 This repository contains a Python implementation of the card game [UNO](https://en.wikipedia.org/wiki/Uno_(card_game)) with a command line interface. The game can be invoked from the terminal as 
 
